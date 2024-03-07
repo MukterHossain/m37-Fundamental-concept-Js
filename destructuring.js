@@ -1,5 +1,5 @@
 // 1. array destructuring
-const numbers = [42, 65];
+const numbers = [42, 65, 21];
 // const x = numbers[0];
 // const y = numbers[1];
 // or
